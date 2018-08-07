@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+}
+.block {
+  width: 300px;
+}
+#app {
+  background-color: white;
+  margin-top: -340px;
+  margin-bottom: 50px;
+}
+.search {
+  visibility: hidden;
+  height: 0px;
+}
+#header {
+  margin-bottom: 70px;
+}
+.top, .bottom {
+  position: relative;
+  width: 960px;
+  display: flex;
+  margin: 0 auto;
+}
+.bottom {
+  margin-top: 50px;
+}
+.wrapper {
+  background-color: #f2f2f2;
+  border-bottom-style: solid;
+  border-bottom-width: 0.1px;
+  border-bottom-color: rgb(228, 228, 228);
+}
+#map {
+  position: relative;
+  width: 500px;
+}
+#image {
+  position: relative;
+}
+
+#review {
+  position: relative;
+}
+#appointment {
+  position: relative;
+}
